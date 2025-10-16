@@ -1,0 +1,9 @@
+{
+	"name": "sakethdatafactory",
+	"location": "westus3",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e35d19a7-7458-4dbe-99d7-e0391c909b38",
+		"tenantId": "41f88ecb-ca63-404d-97dd-ab0a169fd138"
+	}
+}
